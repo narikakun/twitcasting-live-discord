@@ -1,0 +1,8 @@
+{
+  "name": "twitcasting-live-discord",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "request": "^2.88.2"
+  }
+}
